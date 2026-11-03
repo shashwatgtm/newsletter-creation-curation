@@ -1,0 +1,33 @@
+{
+  "skills": [
+    {
+      "repo": "newsletter-creation-curation",
+      "path": "SKILL.md",
+      "before_sha256": "074e92c2c01befb78cb7dd05aeb8be7d7a30155c6f7f250d06a010bbc0d9bcef",
+      "after_sha256": "a455c8c6ba01647526a442ca757910ae8fcae0227984299e6e0a81cace8ee3a6",
+      "frontmatter_sha256": "44efeda704341dcea66a46e7ca3581894af8394e9a64edf39af6f5064a66507f",
+      "reference_sha256": "48e5917aecb374a4dfd467a5a74a066c1061c275d6110cc51b36a4860fe0bd8e"
+    }
+  ],
+  "tools": {
+    "alpha": [
+      "gtm_consultation",
+      "epic_audit",
+      "generate_roadmap"
+    ],
+    "revenue": [
+      "account_plan_builder",
+      "deal_strategy_coach",
+      "discovery_question_bank",
+      "roi_business_case_builder",
+      "mutual_action_plan_generator",
+      "win_loss_analyzer",
+      "proposal_section_writer",
+      "email_sequence_generator",
+      "demo_script_builder",
+      "pricing_negotiation_guide",
+      "champion_enablement_kit",
+      "competitive_trap_setter"
+    ]
+  }
+}
