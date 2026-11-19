@@ -1,5 +1,7 @@
 ﻿# Newsletter Creation & Curation
 
+By Helix GTM Consulting (https://gtmhelix.com), built by Shashwat Ghosh, Co-Founder and Fractional CMO.
+
 A comprehensive skill for creating, structuring, and curating email newsletters for B2B SaaS companies.
 
 ## Overview
